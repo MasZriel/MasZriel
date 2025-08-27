@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="(https://www.instagram.com/secrets_.21)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://icon2.cleanpng.com/20231123/jlo/transparent-tiktok-logo-black-and-white-logo-tiktok-app-minima-minimalist-black-and-white-tiktok-app-1711003015201.webp" alt="Tiktok" height="20" /></a>
+  <a href=" https://www.instagram.com/secrets_.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="40" /></a>
+  <a href="https://www.tiktok.com/@zaaaael?lang=id-ID" target="blank"><img align="center" src="https://icon2.cleanpng.com/20231123/jlo/transparent-tiktok-logo-black-and-white-logo-tiktok-app-minima-minimalist-black-and-white-tiktok-app-1711003015201.webp" alt="Tiktok" height="20" /></a>
 </p>
 
 ---
